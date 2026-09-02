@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Custom .gitignore
+
+_docs/
+data/
+.txt
+z.txt
+z1.py
+z2.py
+
+
