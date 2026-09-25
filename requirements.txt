@@ -1,0 +1,10 @@
+notebook
+pandas
+ideam-dhime
+
+# App Streamlit (app/streamlit_app.py)
+streamlit
+folium
+streamlit-folium
+plotly
+requests
